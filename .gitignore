@@ -1,0 +1,7 @@
+.env
+BoxV2.sol
+node_modules
+yarn.lock
+artifacts
+cache
+.DS_store
